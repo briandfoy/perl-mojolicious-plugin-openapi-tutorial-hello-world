@@ -31,7 +31,7 @@ We then install the plugin we need to enable **OpenAPI** in our **Mojolicious** 
 Using **CPAN** shell:
 
 ```bash
-$ perl -MCPAN -e shell install Mojolicious::Plugin::OpenAPI
+$ cpan Mojolicious::Plugin::OpenAPI
 ```
 
 Using `cpanm`:
